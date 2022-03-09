@@ -1,25 +1,30 @@
 .capa{
     width: 320px;
-    background-color: rgb(255, 255, 255);
-    border: 1px solid rgb(243, 14, 14);
+    background-color: #00143f;
+    border: 1px solid #00143f;
     padding: 5px;
     margin-bottom: 5px;
     
 }
 .capa2{
-    width: 320px;
-    background-color: rgb(255, 255, 255);
-    border: 1px solid rgb(14, 243, 26);
+    width: 220px;
+    background-color: #00143f;
+    border: 1px solid #00143f;
     padding: 5px;
     margin-bottom: 5px;
     
 }
-
-.capa33333{
-    width: 390px;
-    background-color: rgb(255, 255, 255);
-    border: 1px solid rgb(243, 14, 14);
+.capa3{
+    width: 220px;
+    background-color: #00143f;
+    border: 1px solid #00143f;
     padding: 5px;
     margin-bottom: 5px;
-    
+    text-decoration: chartreuse;
 }
+.abs-center {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    /* min-height: 100vh; */
+  }
