@@ -6498,7 +6498,10 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important; }
+  margin-bottom: 1.5rem !important; 
+color: #f00;
+colortext
+}
 
 .ml-4,
 .mx-4 {
@@ -7887,10 +7890,10 @@ a.text-warning:hover, a.text-warning:focus {
   color: #ba8b00 !important; }
 
 .text-danger {
-  color: #dc3545 !important; }
+  color: #F26522 !important; }
 
 a.text-danger:hover, a.text-danger:focus {
-  color: #a71d2a !important; }
+  color: #F26522 !important; }
 
 .text-light {
   color: #f8f9fa !important; }
@@ -8083,7 +8086,7 @@ h1, h2, h3, h4, h5,
     .social-media p a span {
       color: #fff; }
     .social-media p a:hover {
-      background: #F26522;
+      background: #FFFFFF;
       border-color: #F26522; }
       .social-media p a:hover span {
         color: #fff; }
